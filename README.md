@@ -45,7 +45,7 @@ After analyzing this data, I have drawn the following conclusions:
 
 <br><br>
 
-- The Scores by School Type section shows that the differences mentioned in the previous point are similar for Charter Schools vs. District schools, with Charter schools outperforming District schools in every metric. This is likely due to the fact that charter schools tend to be smaller, in fact every district school in this data set fell under the "Large" category of school size (2000 or more students). 
+- The Scores by School Type section shows that the differences mentioned in the previous point are similar for Charter Schools vs. District schools, with Charter schools outperforming District schools in every metric. This is likely due to the fact that charter schools tend to be smaller - in fact every district school in this data set fell under the "Large" category of school size (2000 or more students). 
 
 <br>
 
